@@ -1,0 +1,7 @@
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\bin\Debug\Controle Precos.exe
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\bin\Debug\Controle Precos.pdb
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\obj\x86\Debug\Controle_Precos.Form1.resources
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\obj\x86\Debug\Controle_Precos.Properties.Resources.resources
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\obj\x86\Debug\Controle Precos.csproj.GenerateResource.Cache
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\obj\x86\Debug\Controle Precos.exe
+D:\Projetos\Sistema George\Controle Precos\Controle Precos\obj\x86\Debug\Controle Precos.pdb
